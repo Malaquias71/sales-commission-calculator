@@ -68,6 +68,7 @@ This project demonstrates:
 Add a screenshot here after deployment:
 
     ![Commission Calculator Screenshot](assets/screenshot.png)
+<img width="842" height="638" alt="screenshot" src="https://github.com/user-attachments/assets/2b4d8a3b-a504-4210-84dd-1e55d056c303" />
 
 ---
 
