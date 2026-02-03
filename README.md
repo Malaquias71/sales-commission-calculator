@@ -65,7 +65,6 @@ This project demonstrates:
 
 ## 📸 Screenshot
 
-Add a screenshot here after deployment:
     
 <img width="842" height="638" alt="screenshot" src="https://github.com/user-attachments/assets/2b4d8a3b-a504-4210-84dd-1e55d056c303" />
 
