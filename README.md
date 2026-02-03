@@ -67,7 +67,7 @@ This project demonstrates:
 
 Add a screenshot here after deployment:
 
-    ![App Screenshot](screenshot.png)
+    ![Commission Calculator Screenshot](assets/screenshot.png)
 
 ---
 
